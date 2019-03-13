@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/snipsco/snips-platform-android-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CandidoAC/TFG.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\usuario\workspace_ASEE" />
