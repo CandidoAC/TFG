@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.util.Log.i(tag,msg)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
