@@ -5,6 +5,7 @@
       <mapping pattern="._com" type="PLAIN_TEXT" />
       <mapping pattern="perfd" type="PLAIN_TEXT" />
       <mapping pattern="VERSION_60005" type="PLAIN_TEXT" />
+      <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="vanilla" type="PLAIN_TEXT" />
       <mapping ext="crfsuite" type="PLAIN_TEXT" />
       <mapping ext="fst" type="PLAIN_TEXT" />
