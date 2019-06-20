@@ -9,6 +9,7 @@
       <mapping ext="vanilla" type="PLAIN_TEXT" />
       <mapping ext="crfsuite" type="PLAIN_TEXT" />
       <mapping ext="fst" type="PLAIN_TEXT" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping ext="added" type="PLAIN_TEXT" />
       <mapping ext="snips" type="PLAIN_TEXT" />
       <mapping ext="db" type="SPI" />
