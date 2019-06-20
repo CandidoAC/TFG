@@ -11,6 +11,7 @@
       <mapping ext="fst" type="PLAIN_TEXT" />
       <mapping ext="added" type="PLAIN_TEXT" />
       <mapping ext="snips" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SPI" />
       <mapping pattern="rundb" type="SQL" />
     </extensionMap>
   </component>
