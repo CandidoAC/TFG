@@ -12,6 +12,7 @@
       <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping ext="added" type="PLAIN_TEXT" />
       <mapping ext="snips" type="PLAIN_TEXT" />
+      <mapping ext="vdex" type="PLAIN_TEXT" />
       <mapping ext="db" type="SPI" />
       <mapping pattern="rundb" type="SQL" />
     </extensionMap>
